@@ -1,5 +1,5 @@
 # Asma Shaikh  
-### .Net Architect | Microservices Architect | Azure Cloud | Engineering Leadership
+### .Net Architect | Microservices | Azure Cloud | AWS | Engineering Leadership
 
 I am a Lead .NET Engineer with 14+ years of experience architecting and delivering enterprise-grade, cloud-native applications. I specialize in building scalable microservices, optimizing engineering processes, and leading high-performing development teams across global projects.
 
